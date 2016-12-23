@@ -37,7 +37,3 @@ $bootstrap = \Magento\Framework\App\Bootstrap::create(BP, $_SERVER);
 /** @var \Magento\Framework\App\Http $app */
 $app = $bootstrap->createApplication('Magento\Framework\App\Http');
 $bootstrap->run($app);
-
-/* Index.php changes test push hello world */
-
-/* Index.php changes test push hello world */
