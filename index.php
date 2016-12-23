@@ -39,3 +39,5 @@ $app = $bootstrap->createApplication('Magento\Framework\App\Http');
 $bootstrap->run($app);
 
 /* Index.php changes test push hello world */
+
+/* Index.php changes test push hello world */
